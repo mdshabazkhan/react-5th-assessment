@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-5th-assessment/static/css/main.9e19de19.css",
+    "main.js": "/react-5th-assessment/static/js/main.66905a88.js",
+    "index.html": "/react-5th-assessment/index.html",
+    "main.9e19de19.css.map": "/react-5th-assessment/static/css/main.9e19de19.css.map",
+    "main.66905a88.js.map": "/react-5th-assessment/static/js/main.66905a88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e19de19.css",
+    "static/js/main.66905a88.js"
+  ]
+}
